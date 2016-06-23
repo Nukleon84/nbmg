@@ -8,6 +8,7 @@ This project is a collection of Python functions that can be used to generate gr
 The inspiration for this app can be found in the following blog posts:
 
 http://hillcantons.blogspot.de/2014/11/pointcrawl-series-index.html
+
 http://thealexandrian.net/wordpress/13085/roleplaying-games/jaquaying-the-dungeon
 
 A very similar app that already works in the browser can be found here:
