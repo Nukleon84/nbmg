@@ -1,0 +1,2 @@
+# nbmg
+NodeBasedRPGMapGenerator
